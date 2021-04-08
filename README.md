@@ -1,5 +1,5 @@
 ### Hi :wave:
-### I'm Full Stack Developer (although more biased to Backend :bowtie:) from India.
+### I'm Full Stack Developer (although more interested in Backend :bowtie:) from India.
 
 - :computer: Golang, Python, Javascript, Dart, C, Assembly Language. 
 - :hearts: Reading books, Travelling new places (more inclined to nature).
