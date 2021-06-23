@@ -1,5 +1,5 @@
 ### Hi 👋
-### Developer from 🇮🇳.
+### Developer from 🇮🇳
 
 - :computer: Golang, Python, Javascript, Dart, C, Assembly Language. 
 - :hearts: Reading books, Travelling new places (more inclined to nature).
