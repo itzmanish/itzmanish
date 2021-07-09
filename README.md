@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Microservices, Distributed systems, Embedded Systems, IoTs**
 
-- 📫 How to reach me **manish@heymanish.codes**
+- 📫 Reach me @ **manish@heymanish.codes**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/itzmanish/](https://www.linkedin.com/in/itzmanish/)
 
