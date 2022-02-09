@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Go, Kubernetes, Docker, Ansible**
 
-- 👨‍💻 All of my projects are available at [https://heymanish.codes](https://heymanish.codes)
+- 👨‍💻 All of my projects are available at [https://heymanish.com](https://heymanish.com)
 
-- 📝 I regularly write articles on [https://blogs.heymanish.codes](https://blogs.heymanish.codes)
+- 📝 I regularly write articles on [https://blogs.heymanish.com](https://blogs.heymanish.com)
 
 - 💬 Ask me about **Microservices, Distributed systems, Embedded Systems, IoTs**
 
-- 📫 Reach me at **manish@heymanish.codes**
+- 📫 Reach me at **manish@heymanish.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/itzmanish/](https://www.linkedin.com/in/itzmanish/)
 
