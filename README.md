@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmanish&theme=onedark" alt="itzmanish" /></a> </p>
 
-- 🌱 I’m currently learning **Go, Kubernetes, Docker, Ansible**
+- 🌱 I’m currently learning **Rust, Go, Kubernetes, Docker, Ansible**
 
 - 👨‍💻 All of my projects are available at [https://heymanish.com](https://heymanish.com)
 
